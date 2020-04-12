@@ -2,7 +2,8 @@
 
 ### This application build in Java (JSP) Web Application
 
-**Backend: **Java (JSP), MySql
+**Backend: ** Java (JSP), MySql
+
 **Front-end:** HTML, CSS, Bootstrap, Javascript
 
 #### Functionality of Website:
