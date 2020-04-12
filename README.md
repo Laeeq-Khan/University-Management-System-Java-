@@ -1,17 +1,16 @@
-# University-Management-System-Java
-General University management system in Java (JSP) 
-Admin View
-User View
+#University Management System
 
-Admin Can Add Courses, Assignments, Add Students, Add Teachers,
-Teacher can Add Marks, Add Assignments
+### This application build in Java (JSP) Web Application
 
-Student Can View Results.
+**Backend: **Java (JSP), MySql
+**Front-end:** HTML, CSS, Bootstrap, Javascript
 
-
-Technologies:
-JAVA (JSP),
-HTML,
-CSS (Bootstrap),
-Javascript and
-Jquery
+#### Functionality of Website:
+- Add User
+- Add Teachers
+- Add Students
+- Add Courses
+- Add Assignments  
+- Mark Assignments 
+- Mark Courses
+- Results
