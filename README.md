@@ -6,6 +6,7 @@
 **Front-end:** HTML, CSS, Bootstrap, Javascript
 
 #### Functionality of Website:
+- Admin Panel
 - Add User
 - Add Teachers
 - Add Students
